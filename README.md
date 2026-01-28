@@ -45,3 +45,25 @@ Here are some places that I want to travel to and retravel to get my own experie
 > “We could be immortals, immortals.”  
 > *Fall Out Boy*
 
+---
+
+## SQL Self Join Example
+s551669
+6 and 9
+
+This SQL query demonstrates a **self join**, where a table is joined to itself.  
+In this example, the `Employees` table is joined to itself to display each employee along with their manager’s name.
+
+```sql
+SELECT
+    employee.Id,
+    employee.FullName,
+    employee.ManagerId,
+    manager.FullName AS ManagerName
+FROM Employees employee
+JOIN Employees manager
+    ON employee.ManagerId = manager.Id;
+
+[scenario 1](https://learnsql.com/blog/what-is-self-join-sql/#examples)
+
+
