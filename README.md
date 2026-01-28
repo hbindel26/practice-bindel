@@ -21,3 +21,16 @@ I like **Fall Out Boy** because their music mixes **emotion and energy**  to bri
 ---
 
 [Learn more about my favorite location](MyLocation.md)
+
+---
+
+## Places I Want to Visit
+
+Here are some places that I want to travel to and retravel to get my own experiences
+
+| Place | Reason | Distance | Weekly Budget ($) |
+|------|--------|----------|-------------------|
+| Japan | Culture & food | 6,300 miles | 2,500 |
+| Italy | History | 5,000 miles | 2,200 |
+| Iceland | Nature | 3,000 miles | 2,800 |
+| New Zealand | Landscapes | 8,300 miles | 3,000 |
