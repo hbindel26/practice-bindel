@@ -34,3 +34,14 @@ Here are some places that I want to travel to and retravel to get my own experie
 | Italy | History | 5,000 miles | 2,200 |
 | Iceland | Nature | 3,000 miles | 2,800 |
 | New Zealand | Landscapes | 8,300 miles | 3,000 |
+
+---
+
+## Favorite Lyrics
+
+> “I’m just a notch in your bedpost, but you’re just a line in a song.”  
+> *Fall Out Boy*
+
+> “We could be immortals, immortals.”  
+> *Fall Out Boy*
+
