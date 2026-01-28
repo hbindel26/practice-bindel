@@ -11,3 +11,9 @@ I like **Fall Out Boy** because their music mixes **emotion and energy**  to bri
 1. joji
 2. artic monkeys
 3. maverick mom
+
+### Favorite Books
+
+- Percy Jackson and the lightning thief
+- One Piece
+- Magisterium Books
