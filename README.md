@@ -63,7 +63,7 @@ SELECT
 FROM Employees employee
 JOIN Employees manager
     ON employee.ManagerId = manager.Id;
-
+```
 [scenario 1](https://learnsql.com/blog/what-is-self-join-sql/#examples)
 
 
