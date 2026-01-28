@@ -17,3 +17,7 @@ I like **Fall Out Boy** because their music mixes **emotion and energy**  to bri
 - Percy Jackson and the lightning thief
 - One Piece
 - Magisterium Books
+
+---
+
+[Learn more about my favorite location](MyLocation.md)
